@@ -7,7 +7,7 @@ public class ArrayExample {
          //Scanner sc = new Scanner(System.in);
              //int n = sc.nextInt();
             //int arr1[] = new int[n];
-            int[] arr2 = {3, 45, 2, 34, 2, 1, 345, 56};
+            int[] arr2 = {3, 54, 2, 43, 2, 1, 543, 65};
             int[] arr3 = new int[]{4, 3, 2, 45, 76, 4, 3, 3};
             int alen= arr2.length;
             int blen = arr3.length;
